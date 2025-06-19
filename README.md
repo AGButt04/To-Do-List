@@ -27,14 +27,3 @@ git clone https://github.com/yourusername/java-todo-list.git
 Open the project in your Java IDE (Eclipse, IntelliJ IDEA, NetBeans).
 
 Compile and run TaskList.java.
-
-Use the GUI to add, edit, mark, or remove tasks.
-
-Usage
-Add Task: Click "Add Task" and input task name and priority.
-
-Edit Task: Select a task, click "Edit Task", then choose what to change.
-
-Mark as done: Select a task and click "Mark as done".
-
-Remove Task: Select a task and click "Remove Task".
