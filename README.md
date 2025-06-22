@@ -70,7 +70,7 @@ This project demonstrates:
 - **List Management**: Adding, removing, and updating elements in DefaultListModel
 
 ---
-**Part of my programming portfolio** | [GitHub Profile](https://github.com/AGButt04) | 
+**Part of my programming portfolio** | [GitHub Profile](https://github.com/AGButt04) | https://www.linkedin.com/in/abdul-ghani-butt-290056338/
 git clone https://github.com/yourusername/java-todo-list.git
 Open the project in your Java IDE (Eclipse, IntelliJ IDEA, NetBeans).
 
