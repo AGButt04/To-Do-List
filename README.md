@@ -9,7 +9,7 @@ A desktop task management application built with Java Swing, demonstrating Objec
 - **Interactive Design**: Dialog-based input and list selection
 
 ## ✨ Key Features
-- ➕ **Add Tasks**: Create tasks with name and priority using dialog prompts
+- ➕ **Add Tasks**: Create tasks with a name and priority using dialog prompts
 - ✏️ **Edit Tasks**: Modify task name, priority, or completion status
 - ✅ **Mark Complete**: Set tasks as done with visual status update
 - 🗑️ **Remove Tasks**: Delete selected tasks from the list
@@ -50,9 +50,9 @@ java TaskList
 ```
 
 **IDE Setup:**
-1. Import project into your preferred Java IDE (IntelliJ IDEA, Eclipse, VS Code)
+1. Import the project into your preferred Java IDE (IntelliJ IDEA, Eclipse, VS Code)
 2. Ensure JDK 8+ is configured
-3. Run `TaskList.java` as main class
+3. Run `TaskList.java` as the main class
 
 ## 🔧 Technologies & Concepts
 - **Java SE** - Core programming language
@@ -70,8 +70,7 @@ This project demonstrates:
 - **List Management**: Adding, removing, and updating elements in DefaultListModel
 
 ---
-**Part of my programming portfolio** | [GitHub Profile](https://github.com/AGButt04) | https://www.linkedin.com/in/abdul-ghani-butt-290056338/
-git clone https://github.com/yourusername/java-todo-list.git
+**Part of my programming portfolio** | (https://github.com/AGButt04) | https://www.linkedin.com/in/abdul-ghani-butt-290056338/
 Open the project in your Java IDE (Eclipse, IntelliJ IDEA, NetBeans).
 
 Compile and run TaskList.java.
