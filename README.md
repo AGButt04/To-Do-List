@@ -70,7 +70,7 @@ This project demonstrates:
 - **List Management**: Adding, removing, and updating elements in DefaultListModel
 
 ---
-**Part of my programming portfolio** | [Github](https://github.com/AGButt04) | [Github](https://www.linkedin.com/in/abdul-ghani-butt-290056338/)
+**Part of my programming portfolio** | [Github](https://github.com/AGButt04) | [LinkedIn](https://www.linkedin.com/in/abdul-ghani-butt-290056338/)
 Open the project in your Java IDE (Eclipse, IntelliJ IDEA, NetBeans).
 
 Compile and run TaskList.java.
