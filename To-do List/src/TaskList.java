@@ -7,6 +7,7 @@ import java.awt.event.*;
 
 public class TaskList {
 	private JList<Task> taskList;
+	
 	private DefaultListModel<Task> tasks;
 	
 	public static void main(String[] args) {
@@ -27,7 +28,7 @@ public class TaskList {
 				tasks.addElement(new Task(name, priority));
 		}
 	}
-	
+
 	public void edit() {
 		Task t = taskList.getSelectedValue();
 		int index = taskList.getSelectedIndex();
